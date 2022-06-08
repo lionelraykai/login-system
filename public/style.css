@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("/assets/saturo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container.w-25.border.py-5 {
+	background-color: rgba(0,0,0,0.5);
+}
+.center-div{
+padding-top: 10%;
+}
+.font-weight-bold {
+	color: #fff;
+}
+.btn{
+    margin: 2em 2em;
+    padding: 5px 32px;
+}
+form{
+    padding: 0 32px;
+}
+span{
+  font-size: 16px;
+  color:#fff;
+}
+.form-text.text-muted.text-left {
+	color: #fff !important;
+}
+.container.w-25.border.py-5.mt-5 {
+	color: #fff;
+}
+.toggle {
+	position: relative;
+	height: 20px;
+	top: -30px;
+	background-repeat: no-repeat;
+	left: 125px;
+}
